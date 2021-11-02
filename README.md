@@ -1,2 +1,2 @@
 # JavaBubbleSort
-Simple method that generates a random integer in a defined range.
+Simple method that sorts an array using the bubble sort algorithm.
